@@ -1,4 +1,4 @@
-# PDFChat
+# PDF AnswerBot
 PDFChat is a sophisticated application designed to answer questions based on the information contained within a given PDF document. It leverages cutting-edge technologies and frameworks to provide accurate and efficient responses, making it an invaluable tool for information retrieval and analysis.<br/>
 <br/>
 **Features**<br/>
